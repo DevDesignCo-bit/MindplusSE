@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#96c7fa">
+  <meta name="description" content="Träna dina kognitiva förmågor med Mind+. Ange ditt mobilnummer för att fortsätta.">
+  <title>Mind+ | Hjärnträning</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body data-page="entry">
+  <div class="site">
+    <header class="brandbar">
+      <a class="brand" href="index.html" aria-label="Mind+ – startsida"><img src="logo.png" width="62" height="13" alt="Mind+"></a>
+      <nav class="language-switch" aria-label="Språk / Language">
+        <button type="button" data-language="sv" lang="sv" aria-label="Svenska" aria-pressed="true">SE</button>
+        <button type="button" data-language="en" lang="en" aria-label="English" aria-pressed="false">EN</button>
+      </nav>
+    </header>
+    <main class="landing-content">
+      <section class="hero" aria-label="Mind+ hjärnträning">
+        <img class="hero-art" src="img.png" width="390" height="470" alt="En man med en mobiltelefon omgiven av Memory, Focus, Logic, Problem-Solving och Processing Speed." fetchpriority="high">
+        <h1 class="intro" data-i18n="intro">Mind+ är en hjärnträningstjänst som utvecklar dina kognitiva förmågor.</h1>
+      </section>
+      <form class="form-card" id="entry-form" action="pin.html" method="get" novalidate>
+        <label class="field-label" for="mobile" data-i18n="mobileLabel">Ange ditt mobilnummer för att börja träna:</label>
+        <div class="phone-field"><span class="prefix" aria-hidden="true">+46</span><input id="mobile" type="tel" inputmode="tel" autocomplete="tel-national" placeholder="XXX XX XX X" aria-label="Svenskt mobilnummer, landskod +46" aria-describedby="price form-status"></div>
+        <button class="cta" type="submit" data-i18n="continue">Fortsätt</button>
+        <p class="price" id="price" data-i18n="price">Aktivera för 100 SEK per vecka</p>
+        <p class="form-status" id="form-status" role="status" aria-live="polite" hidden></p>
+      </form>
+    </main>
+    <footer class="site-footer">
+      <p class="disclaimer"><span data-i18n="disclaimer">Du kan när som helst avsluta tjänsten genom att skicka STOP Mind+ till 72300. Träna din hjärna med hjälp av spel. Genom att fortsätta bekräftar du att du är minst 18 år. För mer information, kontakta oss via e-post: </span><a href="mailto:support@mindplus.store">support@mindplus.store</a><span data-i18n="supportPhone"> eller ring vår kundtjänst: </span><span>[XXXXXXXXX]</span><br><span data-i18n="provider">Denna tjänst tillhandahålls av Playwing LTD.</span></p>
+      <nav class="footer-links" aria-label="Juridisk information"><a href="terms.html" data-legal="terms.html" data-i18n="terms">Villkor &amp; Betingelser</a><a href="privacy.html" data-legal="privacy.html" data-i18n="privacy">Integritetspolicy</a></nav>
+    </footer>
+    <noscript><p class="noscript">Aktivera JavaScript för språkval och validering. / Enable JavaScript for language selection and validation. <a href="pin.html">PIN-sida / PIN page</a></p></noscript>
+  </div>
+</body>
+</html>
