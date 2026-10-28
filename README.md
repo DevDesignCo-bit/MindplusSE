@@ -16,12 +16,12 @@ Abre index.html en un navegador. No requiere instalar nada ni conexión a intern
 
 ## Contenido
 Se conservan los PNG originales sin modificar.
-Oferta de las referencias: 100 SEK/semana, +18 y STOP Mind+ al 72300.
+Oferta actualizada: 200 SEK/mes, +18 y STOP Mind+ al 72300.
 El teléfono [XXXXXXXXX] se conserva porque falta el número real en la referencia. Sustituir en index.html y pin.html.
 No hay dependencias externas, fuentes remotas, analítica ni cookies añadidas por esta maqueta.
 
 ## Fuentes legales y alcance
-Términos: adaptación al sueco de https://mindplus.store/info/terms (consultado el 28 de octubre de 2026), con los datos del diseño sueco. Se han sustituido los marcadores de país, moneda, periodicidad y precio por Suecia, SEK, semanal y 100. Se ha aplicado +18 de la landing en vez del texto genérico de menores de la web. El apartado de datos personales remite a la política de privacidad en vez de repetir la referencia obsoleta a Data Protection Act 1998.
+Términos: adaptación al sueco de https://mindplus.store/info/terms (consultado el 28 de octubre de 2026), con los datos del diseño sueco y el precio mensual actualizado indicado por la usuaria. Se han sustituido los marcadores de país, moneda, periodicidad y precio por Suecia, SEK, mensual y 200. Se ha aplicado +18 de la landing en vez del texto genérico de menores de la web. El apartado de datos personales remite a la política de privacidad en vez de repetir la referencia obsoleta a Data Protection Act 1998.
 Privacidad: versión sueca basada en el contenido de Mind+/Slovakia GOODGAMES/Zásady ochrany osobných údajov.png, ya existente en este proyecto, con contacto support@mindplus.store. No se ha podido localizar una Privacy Policy pública accesible en mindplus.store. No es una traducción verificada de una página web de privacidad sueca aprobada.
 Cookies: adaptación al sueco de https://mindplus.store/info/cookies.
 Las páginas legales reproducen el fondo oscuro, encabezado con flecha y tarjeta clara de la referencia. La navegación vuelve a la landing local.
